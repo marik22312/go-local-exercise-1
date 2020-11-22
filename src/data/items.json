@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "B086383HC7",
+      "name": "Lenovo Chromebook Flex",
+      "image": "https://res.cloudinary.com/dqsubx7oc/image/upload/w_400,h_400,c_thumb/v1604854734/exercise/Lenovo%20Chromebook%20Flex.jpg",
+      "price": 409,
+      "description": "Work from home, school, or anywhere with the outstanding combination..."
+    },
+    {
+      "id": "B07RF1XD36",
+      "name": "Acer Aspire 5 Slim Laptop",
+      "image": "https://res.cloudinary.com/dqsubx7oc/image/upload/w_400,h_400,c_thumb/v1604854840/exercise/Acer%20Aspire%205%20Slim%20Laptop.jpg",
+      "price": 349,
+      "description": "Powerful and portable, the Aspire 5 laptop delivers on every aspect..."
+    },
+    {
+      "id": "B08F7PTF54",
+      "name": "Oculus Quest 2 (64GB)",
+      "image": "https://res.cloudinary.com/dqsubx7oc/image/upload/w_400,h_400,c_thumb/v1604854965/exercise/Oculus%202.jpg",
+      "price": 200,
+      "description": "Immersive Entertainment - Get the best seat in the house to live conc..."
+    },
+    {
+      "id": "B08FC5L3RG",
+      "name": "PlayStation 5 Console",
+      "image": "https://res.cloudinary.com/dqsubx7oc/image/upload/w_400,h_400,c_thumb/v1604855087/exercise/Playstation%205.jpg",
+      "price": 499,
+      "description": "Stunning Games - Marvel at incredible graphics and experience new PS5 features."
+    },
+    {
+      "id": "B07D5S54C5",
+      "name": "Corsair K70 RGB MK.2 Rapidfire",
+      "image": "https://res.cloudinary.com/dqsubx7oc/image/upload/w_400,h_400,c_thumb/v1604855197/exercise/Corsair%20K70.jpg",
+      "price": 179,
+      "description": "The CORSAIR K70 RGB MK.2 RAPIDFIRE is a premium mechanical gaming keyboard..."
+    }
+  ]
+}
